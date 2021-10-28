@@ -66,6 +66,6 @@ param
 
 * **object** tag: Print the object tag. In the next  lines, print the attributes type, data, width and height along with their respective values.  
 
-* **'<!-- Comment -->'** tag: Don't detect anything inside it.  
+* **`<!-- Comment -->`** tag: Don't detect anything inside it.  
 
-**param** tag: Print the param tag. In the next  lines, print the attributes name along with their respective values.  
+* **param** tag: Print the param tag. In the next  lines, print the attributes name along with their respective values.  
